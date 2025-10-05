@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: Nanotoxicology Machine Learning Classification Project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leonardo Joaquín
+    family-names: Camarena Trujillo
+    email: leonardo.camarena@unmsm.edu.pe
+  - given-names: Luis David
+    family-names: Yauri Martinez
+    email: luis.yauri1@unmsm.edu.pe
+  - given-names: Jannina
+    family-names: Romero Mori
+    email: jannina.romero@unmsm.edu.pe
+  - given-names: Nhikori Mirella
+    family-names: Tovar Porras
+    email: nhikori.tovar@unmsm.edu.pe
+  - given-names: Juan Carlos
+    family-names: Mondalgo Tapia
+    email: juan.mondalgo1@unmsm.edu.pe
+repository-code: 'https://github.com/RONSOCO-LABS/nano-toxicity-classifier'
+keywords:
+  - Nanotoxicology
+  - Machine Learning
+  - Nanoparticles
+  - Toxicity Prediction
+license: MIT
